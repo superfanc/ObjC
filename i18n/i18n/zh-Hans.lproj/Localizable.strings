@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  i18n
+
+  Created by tonymacmini on 14/11/17.
+  Copyright (c) 2014年 tonyguan. All rights reserved.
+*/
+
+"Title" = "国际化";
+"Name" = "国际化应用";
